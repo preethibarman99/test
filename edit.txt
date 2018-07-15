@@ -1,0 +1,8 @@
+class add
+{
+public static void main(string args[])
+{
+int a=9,b=8,sum;
+sum=a+b;
+}
+}
